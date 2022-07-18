@@ -740,3 +740,9 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+.logo-custom{
+  color:#801f95 !important;
+  font-family: 'Great Vibes', cursive;
+  font-size: 3.4em;
+
+}
