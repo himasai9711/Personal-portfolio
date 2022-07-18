@@ -742,7 +742,13 @@ button:focus {
 }
 .logo-custom{
   color:#801f95 !important;
-  font-family: 'Great Vibes', cursive;
-  font-size: 3.4em;
+  font-family: 'Homemade Apple', cursive;
+  padding-top: 0.5em;
+
 
 }
+.tags{
+  font-family: 'Swanky and Moo Moo', cursive;
+  font-size: 3em;
+  
+ }
